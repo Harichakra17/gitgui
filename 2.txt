@@ -1,1 +1,1 @@
-This is test git gui
+This is test git gui commit from remote
